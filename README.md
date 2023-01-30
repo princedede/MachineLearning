@@ -10,3 +10,4 @@ tionship between two values.
 
 2. Recognizing Clothing Items - Computer vision
 ![screenshot20230130171054](https://user-images.githubusercontent.com/78348683/215530880-f27af94e-6de9-4abf-b677-b817b0dd4c48.png)
+**[Clothing_DetectionML](https://github.com/princedede/MachineLearning/blob/main/Clothing_DetectionML.ipynb)**
